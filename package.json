@@ -1,0 +1,14 @@
+{
+  "name": "bugxpert",
+  "version": "1.0.0",
+  "description": "Bug Tracker Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md Adnan Sohail",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
